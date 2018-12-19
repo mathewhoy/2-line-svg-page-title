@@ -1,19 +1,19 @@
 <style><!--
 .pagetitle-container {
-						width: 70%;
-						margin: 0 auto;
-						float: left;
-							}
-							svg text {
-								stroke: none;
-								cursor: pointer;
-								font-weight: 400;
-								font-size:36px;
-								font-family: 'Benton Sans', Arial, sans-serif;
-								}
-					  a:link {text-decoration: none;}
-					  @media screen and (max-width: 600px) {
-									tspan  {font-size:20px;}}
+	width: 70%;
+	margin: 0 auto;
+	float: left;
+	}
+	svg text {
+	stroke: none;
+	cursor: pointer;
+	font-weight: 400;
+	font-size:36px;
+	font-family: 'Benton Sans', Arial, sans-serif;
+	}
+	a:link {text-decoration: none;}
+	@media screen and (max-width: 600px) {
+	tspan  {font-size:20px;}}
 --></style>
 <div class="pagetitle-container"><svg xmlns="http://www.w3.org/2000/svg" height="80px" width="600px" xmlns:xlink="http://www.w3.org/1999/xlink">
 <title id="title" lang="en">PAGE TITLE - BOTH LINES</title>
