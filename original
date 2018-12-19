@@ -1,0 +1,21 @@
+<style><!--
+.pagetitle-container {
+						width: 70%;
+						margin: 0 auto;
+						float: left;
+							}
+							svg text {
+								stroke: none;
+								cursor: pointer;
+								font-weight: 400;
+								font-size:36px;
+								font-family: 'Benton Sans', Arial, sans-serif;
+								}
+					  a:link {text-decoration: none;}
+					  @media screen and (max-width: 600px) {
+									tspan  {font-size:20px;}}
+--></style>
+<div class="pagetitle-container"><svg xmlns="http://www.w3.org/2000/svg" height="80px" width="600px" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title id="title" lang="en">PAGE TITLE - BOTH LINES</title>
+<a xlink:href="https://LINK.TO.DESTINATION"> <text fill="rgb(0, 0, 0)" kerning="auto" x="3px" y="30px"> <tspan fill="#561b8d" font-family="BentonSans, Arial, sans-serif;" font-size="36px">PAGE TITLE - 1ST LINE</tspan> </text> <text fill="rgb(0, 0, 0)" kerning="auto" x="3px" y="70px"> <tspan fill="#561b8d" font-family="BentonSans, Arial, sans-serif;" font-size="36px">PAGE TITLE - 2ND LINE</tspan></text> </a> </svg></div>
+
